@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Beta.WebDeveloper.no`,
+    title: `WebDeveloper.no`,
     author: `Anonym`,
     description: `En liten Devlog for betaprosjektene mine`,
     siteUrl: `https://beta.webdeveloper.no`,
     social: {
-      twitter: `/index`,
+      twitter: ``,
     },
   },
   plugins: [
