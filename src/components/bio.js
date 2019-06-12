@@ -40,6 +40,9 @@ function Bio() {
             <p>
               Skrevet av <strong>{author}</strong> som bor i Norge og som vil bli en fullverdig webutvikler.
               {` `}
+              <a href={`https://twitter.com/${social.twitter}`}>
+                You should follow him on Twitter
+              </a>
             </p>
           </div>
         )
