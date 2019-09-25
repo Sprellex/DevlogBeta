@@ -1,6 +1,7 @@
 ---
 title: Første Innlegg
-description: Fra lat hobbykoder til fulltidsjobb?
+date: "2015-05-28T22:40:32.169Z"
+description: Fra hobbykoder til fulltidsjobb?
 ---
 
 Har av og på over tid vært lat med koden min, og det syntes både på Github og alle andre steder jeg holder på. Dette blir en måte for å holde meg selv i nakkeskinnet mens jeg går veien til å bli en selvlært webutvikler innen front-end.
