@@ -1,11 +1,10 @@
 ---
-title: Mini-Devlog og Beta Devlog
-date: "2019-06-09T22:40:32.169Z"
-description: Jeg har bestemt meg for at med tiden skal jeg flytte meg videre med beta blogger som en utvidelse av det jeg allerede gjør. Denne er den første.
+title: Første Innlegg
+description: Fra lat hobbykoder til fulltidsjobb?
 ---
 
-Som du så i "Meta-teksten" så er planen at jeg på sikt skal lage mitt eget CMS. Starten er da med denne Gatsby bloggen. Riktig nok hentet ut av et tema. Men jeg vil på sikt endre måten hele denne siden fungerer på og jeg vil også style den om til mitt eget bruk slik at jeg kan få det akkurat som jeg selv vil. Devlogsa her vil kun omhandle veien til eget CMS og ingenting annet. hovedsiden https://webdeveloper.no vil ta seg av alt det andre jeg driver med i løpet av en arbeidsdag.
+Har av og på over tid vært lat med koden min, og det syntes både på Github og alle andre steder jeg holder på. Dette blir en måte for å holde meg selv i nakkeskinnet mens jeg går veien til å bli en selvlært webutvikler innen front-end.
 
-Denne siden kommer nok til å ligge under domenet https://beta.webdeveloper.no/
+Det vil si, at jeg har som mål på sikt og få meg en fulltidsjobb innen webutvikling. Når dette målet er nådd vil nok bloggingen gå litt ned, men likevel holde seg stabilt da jeg vil oppdatere dere om hele ferden min.
 
-Mitt høyeste ønske er å bruke denne i en nettavis jeg jobber med å starte opp innenfor mitt lokalsamfunn.
+Jeg gleder meg til å la dere se hva jeg driver med, og håper å lære fra dere alle!

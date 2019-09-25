@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `WebDeveloper.no`,
-    author: `Anonym`,
-    description: `En liten Devlog for betaprosjektene mine`,
+    author: `Marcus Heed Langnes`,
+    description: `En liten blogg for veien min til å bli en webutvikler.`,
     siteUrl: `https://beta.webdeveloper.no`,
     social: {
       twitter: ``,
