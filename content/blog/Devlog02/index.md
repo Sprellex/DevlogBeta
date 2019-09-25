@@ -1,5 +1,5 @@
 ---
-title: Første Innlegg
+title: Veien videre og planene for det som skjer.
 date: "2019-09-26T22:40:32.169Z"
 description: Planene fremover
 ---
