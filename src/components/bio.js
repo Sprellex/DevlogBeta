@@ -40,8 +40,8 @@ function Bio() {
             <p>
               Skrevet av <strong>{author}</strong> som bor i Norge og som vil bli en fullverdig webutvikler.
               {` `}
-              <a href={`https://webdeveloper.no/${social.twitter}`}>
-                Du bør besøke hovedsiden min
+              <a href={`https://marcuslangnes.no//${social.twitter}`}>
+                Du bør besøke porteføljen min
               </a>
             </p>
           </div>

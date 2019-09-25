@@ -1,6 +1,6 @@
 ---
 title: Første Innlegg
-date: "2015-05-28T22:40:32.169Z"
+date: "2019-09-25T22:40:32.169Z"
 description: Fra hobbykoder til fulltidsjobb?
 ---
 
